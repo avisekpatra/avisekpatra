@@ -1,4 +1,4 @@
-# <p> <img src="https://i.imgur.com/lsizgGl.gif" width="30px"> Hi am Avisek Patra <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <img src="https://komarev.com/ghpvc/?username=jagadish-pattanaik&label=Profile Views&color=blue&style=plastic" alt="profileViews" /> </p>
+# <p> <img src="https://i.imgur.com/lsizgGl.gif" width="30px"> Hi am Avisek Patra <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <img src="https://komarev.com/ghpvc/?username=avisekpatra&label=Profile Views&color=blue&style=plastic" alt="profileViews" /> </p>
 <p>
 I develop ...
 </p>
